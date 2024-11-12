@@ -1,33 +1,31 @@
+## Features
 
-Statistical Measures:
+### Basic Statistical Measures
+- Arithmetic Mean
+- Weighted Average
+- Trimmed Mean
+- Median
+- Mode
+- Standard Deviation
 
-1. Central Tendency Measures:
-   - Arithmetic Mean
-   - Median 
-   - Mode
-   - Trimmed Mean
+### Advanced Statistical Analysis
+- Regression and Correlation
+- Box Plot Visualization
+- Z-Score Calculation
+- Chi-Square Test
+- Covariance Matrix
 
-2. Dispersion Measures:
-   - Standard Deviation
-   - Variance
-   - Range
-   - Interquartile Range (IQR)
+### Distance Metrics
+- Euclidean Distance
+- Manhattan Distance
+- Minkowski Distance
+- Supremum Distance
+- Hamming Distance
+- Jaccard Distance
+- Gower Distance
+- Spearman Distance
 
-3. Distribution Analysis:
-   - Histogram visualization
-   - Box Plot
-   - Kernel Density Estimation (KDE)
-   - Skewness
-   - Kurtosis
+## Prerequisites
 
-4. Data Aggregation:
-   - Monthly averages
-   - Grouped statistics
-   - Custom aggregations using .agg()
-
-5. Visualization Components:
-   - Line plots
-   - Bar plots
-   - Statistical plots with styling
-   - Time series analysis plots
-
+```python
+pip install pandas numpy scipy sklearn matplotlib
