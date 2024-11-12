@@ -1,4 +1,4 @@
-## Features
+
 
 ### Basic Statistical Measures
 - Arithmetic Mean
